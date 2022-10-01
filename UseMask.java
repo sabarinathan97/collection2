@@ -35,7 +35,7 @@ public class UseMask {
 				max = x.getPrice();
 			}
 		}
-		System.out.println(max+" is high price mask");
+		System.out.println(max);
 	}
 
 }
